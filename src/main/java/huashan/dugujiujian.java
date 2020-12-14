@@ -7,6 +7,7 @@ public class dugujiujian {
         System.out.println("快乐西天");
         System.out.println("快乐西天");
         System.out.println("快乐西天");
+        System.out.println("风清扬");
 
 
     }
