@@ -8,7 +8,9 @@ public class dugujiujian {
         System.out.println("快乐西天");
         System.out.println("快乐西天");
         System.out.println("风清扬");
+        System.out.println("啊哈");
 
 
     }
 }
+//git config -l查看配置
